@@ -1,0 +1,20 @@
+{
+  "name": "devanb",
+  "version": "1.0.0",
+  "description": "me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Devan G. Beitel <devan.beitel@gmail.com> (http://devanb.us/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devanb/npm-devanb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devanb/npm-devanb/issues"
+  },
+  "homepage": "https://github.com/devanb/npm-devanb#readme"
+}
